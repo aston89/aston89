@@ -1,4 +1,7 @@
 ## Hey laserlips 👋 !
+<p align="center">
+  <img src="./short.jpg" alt="Johnny 5" width="400">
+</p>
 
 <!--
 **aston89/aston89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
