@@ -1,6 +1,8 @@
 ## Hey laserlips 👋 !
 <p align="center">
-  <img src="./short.jpg" alt="Johnny 5" width="400">
+  <img src="https://raw.githubusercontent.com/aston89/aston89/main/short.jpg"
+       alt="Johnny 5"
+       width="400">
 </p>
 
 <!--
