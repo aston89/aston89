@@ -20,4 +20,4 @@ I build experimental open-source tools for audio, image and video processing, wi
 
 Everything here is free to explore, modify and use.
 
-[☕ Support aston89](https://donate.stripe.com/dRmcN4btdgDqdGg2C538400)
+[If something here has been useful to you, feel free to support my work with a coffee ☕](https://donate.stripe.com/dRmcN4btdgDqdGg2C538400)
