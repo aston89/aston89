@@ -18,6 +18,4 @@ Here are some ideas to get you started:
 
 I build experimental open-source tools for audio, image and video processing, with a focus on adaptive signal processing and perceptual techniques.
 
-Everything here is free to explore, modify and use.
-
 [If something here has been useful to you, feel free to support my work with a coffee ☕](https://donate.stripe.com/dRmcN4btdgDqdGg2C538400)
