@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+I build experimental open-source tools for audio, image and video processing, with a focus on adaptive signal processing and perceptual techniques.
+
+Everything here is free to explore, modify and use.
+
+[☕ Support aston89](https://donate.stripe.com/dRmcN4btdgDqdGg2C538400)
