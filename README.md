@@ -2,7 +2,7 @@
 <p align="left">
   <img src="https://github.com/aston89/aston89/blob/main/Short.jpg"
        alt="Johnny 5"
-       width="400">
+       width="200">
 </p>
 
 <!--
